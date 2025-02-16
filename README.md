@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Data Structure's & Algorithms**
 
-- 🌱 I’m currently learning **JavaScript, React, Data Structure's & Algorithms**
+- 🌱 I’m currently learning **JavaFullStack and Data Structure's & Algorithms**
 
 - 👯 I’m looking to collaborate on **Software Development**
 
