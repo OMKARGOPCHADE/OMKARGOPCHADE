@@ -28,7 +28,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omkargopchade&show_icons=true&locale=en&layout=compact" alt="omkargopchade" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omkargopchade&show_icons=true&locale=en" alt="omkargopchade" /></p>
+<p>&nbsp;<img align="center" src="https://vercel.app" alt="omkargopchade" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omkargopchade&" alt="omkargopchade" /></p>
-![GitHub Stats](https://vercel.app)
+https://www.php.net
